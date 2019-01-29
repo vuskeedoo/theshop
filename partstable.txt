@@ -1,0 +1,9 @@
+"pno", "pname", "qoh", "price", "olevel"
+INSERT INTO parts VALUES ("10506", "Land Before Time I", 20, 19.99, "");
+"10507", "Land Before Time II", 30, 19.99, ""
+"10508", "Land Before Time III", 40, 19.99, ""
+"10509", "Land Before Time IV", 50, 19.99, ""
+"10601", "Sleeping Beauty, 15, 24.99, ""
+"10701", "When Harry Met Sally", 10, 14.99, ""
+"10800", "Dirty Harry", 10, 10.99. ""
+"10900", "Dr. Meowington", 40, 24.99, ""
